@@ -9,8 +9,5 @@
 //------------------------------------------------------------------------------
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/drive.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/file.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/folder-closed.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/folder-open.png")]
 
 
